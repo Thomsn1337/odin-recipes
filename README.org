@@ -1,8 +1,6 @@
 #+title: Recipes Website
 #+author: Thomas Steifler
 
-* Recipes Website
-
 ** About this project
 
 This is the first project assignment in the Odin Project Foundations curriculum. It's a
