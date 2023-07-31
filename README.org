@@ -1,0 +1,15 @@
+#+title: Recipes Website
+#+author: Thomas Steifler
+
+* Recipes Website
+
+** About this project
+
+This is the first project assignment in the Odin Project Foundations curriculum. It's a
+simple HTML website displaying several food recipes.
+
+** Links
+
+- [[https:www.theodinproject.com/about][About the Odin Project]]
+- [[https:www.theodinproject.com/lessons/foundations-recipes][Assignment page]]
+- [[https:www.allrecipes.com][Recipes List]]
