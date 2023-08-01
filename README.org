@@ -11,3 +11,8 @@ simple HTML website displaying several food recipes.
 - [[https:www.theodinproject.com/about][About the Odin Project]]
 - [[https:www.theodinproject.com/lessons/foundations-recipes][Assignment page]]
 - [[https:www.allrecipes.com][Recipes List]]
+
+** Note
+
+If you use a browser plugin like [[https:darkreader.org][Dark Reader]] (can highly recommend), you have to disable it for this page to
+display correctly.
