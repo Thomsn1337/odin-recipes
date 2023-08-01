@@ -14,31 +14,41 @@ body {
     text-align: center;
 }
 
-.art {
-    width: 300px;
+.card {
+    margin: auto;
     border: 2px solid black;
     border-radius: 20px;
-    padding: 10px;
-    margin: auto;
+    padding: 15px;
+}
+
+.art {
+    display: inline-block;
+    border-radius: 20px;
 }
 
 .art img {
-    width: 300px;
+    height: 150px;
 }
 
 .list {
-    border: 2px solid black;
-    border-radius: 20px;
+    position: relative;
+    vertical-align: top;
+    display: inline-block;
     text-align: center;
     line-height: 25px;
     width: 300px;
-    padding: 10px;
-    margin: 20px auto;
+    height: 150px;
 }
 
 .list ul {
+    position: absolute;
+    margin: 0;
     padding: 0;
-    list-style: none;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: left;
+    width: 60%;
 }
 
 .list a {
