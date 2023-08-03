@@ -8,6 +8,7 @@ simple HTML website displaying several food recipes.
 
 ** Links
 
+- [[https:thomsn1337.github.io/odin-recipes/][Preview]] 
 - [[https:www.theodinproject.com/about][About the Odin Project]]
 - [[https:www.theodinproject.com/lessons/foundations-recipes][Assignment page]]
 - [[https:www.allrecipes.com][Recipes List]]
